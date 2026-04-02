@@ -21,7 +21,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🏨 Hotel Review Classifier")
+st.title("🏨 Automated Hotel Review Management System with Machine Learning")
 st.markdown("Analizza le recensioni hotel: scopri il reaparto e il sentiment.")
 
 # 3. ANALISI SINGOLA RECENSIONE 
