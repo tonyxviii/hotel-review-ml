@@ -1,0 +1,311 @@
+id,title,body,department,sentiment
+56,Poor cleaning,The toilet was not cleaned at all.,Housekeeping,negative
+75,Poor cleaning,Sheets looked used and not washed.,Housekeeping,negative
+101,Friendly staff,Check-in was fast and the staff was friendly.,Reception,positive
+206,Amazing food,"food quality was excellent, loved every meal.",F&B,positive
+277,Overpriced menu,"Found a hair in my soup, disgusting.",F&B,negative
+221,Amazing food,Breakfast was absolutely delicious.,F&B,positive
+32,Great housekeeping,The bed sheets were clean and smelled wonderful.,Housekeeping,positive
+259,Disappointing restaurant,Very limited food options at the buffet.,F&B,negative
+135,Helpful receptionist,The concierge gave us excellent suggestions.,Reception,positive
+244,Delicious breakfast,Dinner at the hotel restaurant was fantastic.,F&B,positive
+60,Room not cleaned,"Found hair in the bathroom, unacceptable.",Housekeeping,negative
+287,Cold breakfast,The dinner was bland and disappointing.,F&B,negative
+35,Very clean stay,"Fresh towels every day, loved it.",Housekeeping,positive
+19,Spotless room!,The staff cleaned our room perfectly.,Housekeeping,positive
+139,Excellent service,The concierge gave us excellent suggestions.,Reception,positive
+159,Billing error,We waited 40 minutes just to check in.,Reception,negative
+181,Unhelpful reception,Nobody helped us with our luggage.,Reception,negative
+155,Billing error,Nobody helped us with our luggage.,Reception,negative
+191,Chaotic check-out,"Check-in took forever, very long queue.",Reception,negative
+268,Terrible food,Bar was closed when it should have been open.,F&B,negative
+106,Helpful receptionist,Front desk staff went above and beyond.,Reception,positive
+223,Lovely buffet,Fresh fruit and pastries every morning.,F&B,positive
+215,Delicious breakfast,Dinner at the hotel restaurant was fantastic.,F&B,positive
+308,Not what we expected,The breakfast was good but the room smelled bad and check-out was chaotic.,F&B,negative
+90,Room not cleaned,"The floor had dust everywhere, terrible.",Housekeeping,negative
+45,Very clean stay,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+99,Poor cleaning,"Found hair in the bathroom, unacceptable.",Housekeeping,negative
+54,Disgusting bathroom,Housekeeping forgot to clean our room twice.,Housekeeping,negative
+100,Poor cleaning,The room was dirty and not cleaned properly.,Housekeeping,negative
+1,Spotless room!,The room was spotless and very clean.,Housekeeping,positive
+81,Terrible hygiene,"The floor had dust everywhere, terrible.",Housekeeping,negative
+294,Overpriced menu,"The food made me feel sick, very bad quality.",F&B,negative
+12,Great housekeeping,"Fresh towels every day, loved it.",Housekeeping,positive
+129,Helpful receptionist,"Very welcoming reception team, felt at home.",Reception,positive
+64,Terrible hygiene,The toilet was not cleaned at all.,Housekeeping,negative
+92,Terrible hygiene,Housekeeping forgot to clean our room twice.,Housekeeping,negative
+160,Billing error,The receptionist was rude and unhelpful.,Reception,negative
+128,Smooth check-in,Payment was handled quickly and correctly.,Reception,positive
+256,Cold breakfast,The restaurant was overpriced for poor quality.,F&B,negative
+107,Excellent service,"Smooth check-out process, no issues at all.",Reception,positive
+253,Disappointing restaurant,Room service never delivered our order.,F&B,negative
+295,Terrible food,"The food made me feel sick, very bad quality.",F&B,negative
+196,Billing error,"Check-in took forever, very long queue.",Reception,negative
+169,Long check-in queue,We waited 40 minutes just to check in.,Reception,negative
+48,Great housekeeping,The staff cleaned our room perfectly.,Housekeeping,positive
+114,Helpful receptionist,"Very welcoming reception team, felt at home.",Reception,positive
+205,Lovely buffet,The buffet had a great selection of dishes.,F&B,positive
+298,Poor dining experience,The dinner was bland and disappointing.,F&B,negative
+53,Disgusting bathroom,Housekeeping forgot to clean our room twice.,Housekeeping,negative
+29,Spotless room!,"Fresh towels every day, loved it.",Housekeeping,positive
+265,Terrible food,The dinner was bland and disappointing.,F&B,negative
+34,Excellent cleaning,Room cleaning was done quickly and thoroughly.,Housekeeping,positive
+50,Very clean stay,"The bathroom was immaculate, great job.",Housekeeping,positive
+73,Terrible hygiene,The toilet was not cleaned at all.,Housekeeping,negative
+193,Chaotic check-out,We were charged incorrectly at check-out.,Reception,negative
+231,Great restaurant,Fresh fruit and pastries every morning.,F&B,positive
+58,Dirty room,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+261,Disappointing restaurant,Food took too long to arrive at our table.,F&B,negative
+306,Almost perfect,The restaurant was fantastic but we found the bathroom dirty on arrival.,F&B,positive
+186,Billing error,We were charged incorrectly at check-out.,Reception,negative
+209,Great restaurant,The buffet had a great selection of dishes.,F&B,positive
+281,Poor dining experience,"Found a hair in my soup, disgusting.",F&B,negative
+121,Helpful receptionist,"Smooth check-out process, no issues at all.",Reception,positive
+212,Great restaurant,Breakfast was absolutely delicious.,F&B,positive
+227, Excellent dining,The buffet had a great selection of dishes.,F&B,positive
+226,Delicious breakfast,The bar staff made amazing cocktails.,F&B,positive
+230, Excellent dining,The chef prepared outstanding dishes.,F&B,positive
+291,Disappointing restaurant,"Found a hair in my soup, disgusting.",F&B,negative
+273,Poor dining experience,"Found a hair in my soup, disgusting.",F&B,negative
+86,Poor cleaning,Towels were old and smelled bad.,Housekeeping,negative
+52,Disgusting bathroom,Room was never cleaned during our stay.,Housekeeping,negative
+9,Immaculate bathroom,Pillows and blankets were fresh and clean.,Housekeeping,positive
+304,Great stay overall,"Check-in was smooth and the room was clean, but dinner was disappointing.",Reception,positive
+257,Terrible food,Breakfast was cold and tasteless.,F&B,negative
+190,Rude staff,We were charged incorrectly at check-out.,Reception,negative
+183,Unhelpful reception,Nobody helped us with our luggage.,Reception,negative
+175,Rude staff,The receptionist was rude and unhelpful.,Reception,negative
+44,Very clean stay,The staff cleaned our room perfectly.,Housekeeping,positive
+307,Confusing stay,Staff at reception was helpful but towels were old and food was average.,Reception,positive
+194,Unhelpful reception,We were charged incorrectly at check-out.,Reception,negative
+61,Dirty room,Housekeeping forgot to clean our room twice.,Housekeeping,negative
+150,Smooth check-in,Check-out was painless and very efficient.,Reception,positive
+74,Disgusting bathroom,"The floor had dust everywhere, terrible.",Housekeeping,negative
+234,Amazing food,The restaurant menu was varied and tasty.,F&B,positive
+293,Cold breakfast,The dinner was bland and disappointing.,F&B,negative
+185,Billing error,We were charged incorrectly at check-out.,Reception,negative
+82,Dirty room,"The floor had dust everywhere, terrible.",Housekeeping,negative
+288,Cold breakfast,Food took too long to arrive at our table.,F&B,negative
+235,Amazing food,The chef prepared outstanding dishes.,F&B,positive
+171,Chaotic check-out,Front desk staff was unfriendly and cold.,Reception,negative
+299,Overpriced menu,Bar was closed when it should have been open.,F&B,negative
+6,Great housekeeping,The room was spotless and very clean.,Housekeeping,positive
+222,Delicious breakfast,Room service food arrived hot and delicious.,F&B,positive
+17,Excellent cleaning,"Fresh towels every day, loved it.",Housekeeping,positive
+280,Overpriced menu,Food took too long to arrive at our table.,F&B,negative
+131,Friendly staff,"Smooth check-out process, no issues at all.",Reception,positive
+2,Very clean stay,"Fresh towels every day, loved it.",Housekeeping,positive
+39,Excellent cleaning,"Very clean environment, no complaints at all.",Housekeeping,positive
+228,Amazing food,Breakfast was absolutely delicious.,F&B,positive
+165,Chaotic check-out,Nobody helped us with our luggage.,Reception,negative
+214,Amazing food,Dinner at the hotel restaurant was fantastic.,F&B,positive
+38,Immaculate bathroom,"Fresh towels every day, loved it.",Housekeeping,positive
+144,Smooth check-in,Check-in was fast and the staff was friendly.,Reception,positive
+13,Great housekeeping,Pillows and blankets were fresh and clean.,Housekeeping,positive
+37,Immaculate bathroom,"The bathroom was immaculate, great job.",Housekeeping,positive
+77,Disgusting bathroom,The room was dirty and not cleaned properly.,Housekeeping,negative
+68,Terrible hygiene,Housekeeping forgot to clean our room twice.,Housekeeping,negative
+279,Poor dining experience,Bar was closed when it should have been open.,F&B,negative
+141,Friendly staff,Check-in was fast and the staff was friendly.,Reception,positive
+232,Lovely buffet,The restaurant menu was varied and tasty.,F&B,positive
+269,Cold breakfast,Very limited food options at the buffet.,F&B,negative
+147,Excellent service,The receptionist was very helpful and kind.,Reception,positive
+136,Helpful receptionist,"Smooth check-out process, no issues at all.",Reception,positive
+199,Billing error,Front desk staff was unfriendly and cold.,Reception,negative
+262,Overpriced menu,"Found a hair in my soup, disgusting.",F&B,negative
+142,Excellent service,"Very welcoming reception team, felt at home.",Reception,positive
+189,Rude staff,The receptionist was rude and unhelpful.,Reception,negative
+301,Mixed experience,The room was dirty but the receptionist was very kind and helpful.,Housekeeping,negative
+271,Overpriced menu,Bar was closed when it should have been open.,F&B,negative
+96,Poor cleaning,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+164,Chaotic check-out,Staff at front desk ignored us completely.,Reception,negative
+41,Immaculate bathroom,"Fresh towels every day, loved it.",Housekeeping,positive
+25,Spotless room!,The chembermaids did an outstanding job.,Housekeeping,positive
+255,Poor dining experience,Food took too long to arrive at our table.,F&B,negative
+267,Disappointing restaurant,"Found a hair in my soup, disgusting.",F&B,negative
+309,Decent but improvable,Cleaning was done well but the restaurant was overpriced and slow.,Housekeeping,positive
+33,Great housekeeping,Room cleaning was done quickly and thoroughly.,Housekeeping,positive
+245,Amazing food,The buffet had a great selection of dishes.,F&B,positive
+187,Unhelpful reception,Front desk staff was unfriendly and cold.,Reception,negative
+117,Great front desk,The receptionist was very helpful and kind.,Reception,positive
+162,Chaotic check-out,Our room was not ready despite early arrival.,Reception,negative
+300,Disappointing restaurant,"The food made me feel sick, very bad quality.",F&B,negative
+283,Cold breakfast,"The coffee was terrible, tasted like water.",F&B,negative
+211,Amazing food,The buffet had a great selection of dishes.,F&B,positive
+172,Rude staff,Front desk staff was unfriendly and cold.,Reception,negative
+217,Lovely buffet,The chef prepared outstanding dishes.,F&B,positive
+263,Overpriced menu,Food took too long to arrive at our table.,F&B,negative
+236,Amazing food,The bar staff made amazing cocktails.,F&B,positive
+104,Friendly staff,The concierge gave us excellent suggestions.,Reception,positive
+57,Room not cleaned,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+76,Poor cleaning,The toilet was not cleaned at all.,Housekeeping,negative
+24,Spotless room!,The staff cleaned our room perfectly.,Housekeeping,positive
+5,Spotless room!,Pillows and blankets were fresh and clean.,Housekeeping,positive
+270,Overpriced menu,The restaurant was overpriced for poor quality.,F&B,negative
+297,Terrible food,Room service never delivered our order.,F&B,negative
+122,Great front desk,"Very welcoming reception team, felt at home.",Reception,positive
+151,Chaotic check-out,"Check-in took forever, very long queue.",Reception,negative
+251,Cold breakfast,Very limited food options at the buffet.,F&B,negative
+246,Lovely buffet,Room service food arrived hot and delicious.,F&B,positive
+105,Smooth check-in,"Quick and easy check-in, great welcome.",Reception,positive
+62,Room not cleaned,"Found hair in the bathroom, unacceptable.",Housekeeping,negative
+22,Very clean stay,The room was spotless and very clean.,Housekeeping,positive
+49,Great housekeeping,"The bathroom was immaculate, great job.",Housekeeping,positive
+133,Helpful receptionist,"Quick and easy check-in, great welcome.",Reception,positive
+3,Excellent cleaning,"The bathroom was immaculate, great job.",Housekeeping,positive
+278,Poor dining experience,Food took too long to arrive at our table.,F&B,negative
+71,Disgusting bathroom,Towels were old and smelled bad.,Housekeeping,negative
+153,Unhelpful reception,Our room was not ready despite early arrival.,Reception,negative
+219,Delicious breakfast,Dinner at the hotel restaurant was fantastic.,F&B,positive
+203,Lovely buffet,Breakfast was absolutely delicious.,F&B,positive
+67,Terrible hygiene,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+91,Disgusting bathroom,"The floor had dust everywhere, terrible.",Housekeeping,negative
+55,Terrible hygiene,"The floor had dust everywhere, terrible.",Housekeeping,negative
+125,Friendly staff,Check-in was fast and the staff was friendly.,Reception,positive
+47,Very clean stay,"Fresh towels every day, loved it.",Housekeeping,positive
+84,Dirty room,"Very poor cleaning standards, disappointed.",Housekeeping,negative
+266,Cold breakfast,The restaurant was overpriced for poor quality.,F&B,negative
+8,Excellent cleaning,"Fresh towels every day, loved it.",Housekeeping,positive
+87,Room not cleaned,The toilet was not cleaned at all.,Housekeeping,negative
+98,Disgusting bathroom,The toilet was not cleaned at all.,Housekeeping,negative
+157,Long check-in queue,Nobody helped us with our luggage.,Reception,negative
+146,Smooth check-in,The receptionist was very helpful and kind.,Reception,positive
+119,Smooth check-in,The concierge gave us excellent suggestions.,Reception,positive
+178,Chaotic check-out,Staff at front desk ignored us completely.,Reception,negative
+116,Friendly staff,Payment was handled quickly and correctly.,Reception,positive
+72,Disgusting bathroom,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+23,Great housekeeping,The chembermaids did an outstanding job.,Housekeeping,positive
+225, Excellent dining,The chef prepared outstanding dishes.,F&B,positive
+83,Disgusting bathroom,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+69,Poor cleaning,"Very poor cleaning standards, disappointed.",Housekeeping,negative
+229,Lovely buffet,Breakfast was absolutely delicious.,F&B,positive
+305,Terrible experience,"Room was not cleaned, food was cold and the front desk ignored us completely.",Housekeeping,negative
+120,Helpful receptionist,"Smooth check-out process, no issues at all.",Reception,positive
+124,Helpful receptionist,The concierge gave us excellent suggestions.,Reception,positive
+138,Smooth check-in,Check-in was fast and the staff was friendly.,Reception,positive
+158,Unhelpful reception,We were charged incorrectly at check-out.,Reception,negative
+290,Overpriced menu,Room service never delivered our order.,F&B,negative
+167,Rude staff,Staff at front desk ignored us completely.,Reception,negative
+286,Cold breakfast,The restaurant was overpriced for poor quality.,F&B,negative
+188,Unhelpful reception,Front desk staff was unfriendly and cold.,Reception,negative
+46,Excellent cleaning,Pillows and blankets were fresh and clean.,Housekeeping,positive
+258,Cold breakfast,"Found a hair in my soup, disgusting.",F&B,negative
+40,Great housekeeping,The bed sheets were clean and smelled wonderful.,Housekeeping,positive
+182,Rude staff,The receptionist was rude and unhelpful.,Reception,negative
+118,Smooth check-in,Front desk staff went above and beyond.,Reception,positive
+163,Rude staff,The receptionist was rude and unhelpful.,Reception,negative
+93,Terrible hygiene,"Very poor cleaning standards, disappointed.",Housekeeping,negative
+111,Smooth check-in,The receptionist was very helpful and kind.,Reception,positive
+242, Excellent dining,Dinner at the hotel restaurant was fantastic.,F&B,positive
+126,Excellent service,Check-in was fast and the staff was friendly.,Reception,positive
+108,Excellent service,Check-out was painless and very efficient.,Reception,positive
+4,Spotless room!,The chembermaids did an outstanding job.,Housekeeping,positive
+88,Poor cleaning,Room was never cleaned during our stay.,Housekeeping,negative
+166,Long check-in queue,Check-in was disorganized and chaotic.,Reception,negative
+276,Overpriced menu,The restaurant was overpriced for poor quality.,F&B,negative
+18,Very clean stay,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+254,Terrible food,Food took too long to arrive at our table.,F&B,negative
+170,Chaotic check-out,Nobody helped us with our luggage.,Reception,negative
+110,Helpful receptionist,Payment was handled quickly and correctly.,Reception,positive
+137,Smooth check-in,"Quick and easy check-in, great welcome.",Reception,positive
+89,Disgusting bathroom,"Found hair in the bathroom, unacceptable.",Housekeeping,negative
+264,Cold breakfast,Breakfast was cold and tasteless.,F&B,negative
+201,Great restaurant,The buffet had a great selection of dishes.,F&B,positive
+145,Excellent service,The receptionist was very helpful and kind.,Reception,positive
+204,Great restaurant,Fresh fruit and pastries every morning.,F&B,positive
+31,Excellent cleaning,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+207,Delicious breakfast,The bar staff made amazing cocktails.,F&B,positive
+154,Chaotic check-out,Front desk staff was unfriendly and cold.,Reception,negative
+176,Chaotic check-out,We were charged incorrectly at check-out.,Reception,negative
+218,Amazing food,Breakfast was absolutely delicious.,F&B,positive
+78,Disgusting bathroom,Sheets looked used and not washed.,Housekeeping,negative
+198,Long check-in queue,The receptionist was rude and unhelpful.,Reception,negative
+179,Billing error,Staff at front desk ignored us completely.,Reception,negative
+272,Disappointing restaurant,"The food made me feel sick, very bad quality.",F&B,negative
+63,Room not cleaned,The toilet was not cleaned at all.,Housekeeping,negative
+161,Rude staff,We waited 40 minutes just to check in.,Reception,negative
+213,Great restaurant,The bar staff made amazing cocktails.,F&B,positive
+177,Billing error,Nobody helped us with our luggage.,Reception,negative
+152,Chaotic check-out,The receptionist was rude and unhelpful.,Reception,negative
+20,Spotless room!,Room cleaning was done quickly and thoroughly.,Housekeeping,positive
+51,Poor cleaning,The toilet was not cleaned at all.,Housekeeping,negative
+248,Lovely buffet,Great coffee and lovely breakfast atmosphere.,F&B,positive
+102,Smooth check-in,The receptionist was very helpful and kind.,Reception,positive
+97,Terrible hygiene,The room was dirty and not cleaned properly.,Housekeeping,negative
+282,Terrible food,"The coffee was terrible, tasted like water.",F&B,negative
+174,Long check-in queue,Nobody helped us with our luggage.,Reception,negative
+148,Smooth check-in,Payment was handled quickly and correctly.,Reception,positive
+260,Overpriced menu,The dinner was bland and disappointing.,F&B,negative
+238,Amazing food,The chef prepared outstanding dishes.,F&B,positive
+7,Spotless room!,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+149,Friendly staff,Check-out was painless and very efficient.,Reception,positive
+28,Excellent cleaning,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+80,Dirty room,Sheets looked used and not washed.,Housekeeping,negative
+275,Overpriced menu,Bar was closed when it should have been open.,F&B,negative
+210,Lovely buffet,Fresh fruit and pastries every morning.,F&B,positive
+303,Clean room but bad breakfast,"The room was spotless and tidy, however the buffet was cold and tasteless.",Housekeeping,positive
+30,Very clean stay,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+184,Rude staff,"Check-in took forever, very long queue.",Reception,negative
+192,Billing error,Our room was not ready despite early arrival.,Reception,negative
+247, Excellent dining,Fresh fruit and pastries every morning.,F&B,positive
+252,Poor dining experience,Bar was closed when it should have been open.,F&B,negative
+156,Long check-in queue,Check-in was disorganized and chaotic.,Reception,negative
+292,Overpriced menu,Breakfast was cold and tasteless.,F&B,negative
+95,Dirty room,"The floor had dust everywhere, terrible.",Housekeeping,negative
+197,Billing error,Staff at front desk ignored us completely.,Reception,negative
+132,Helpful receptionist,Check-in was fast and the staff was friendly.,Reception,positive
+239,Great restaurant,The buffet had a great selection of dishes.,F&B,positive
+112,Friendly staff,Payment was handled quickly and correctly.,Reception,positive
+59,Poor cleaning,Towels were old and smelled bad.,Housekeeping,negative
+243,Lovely buffet,The chef prepared outstanding dishes.,F&B,positive
+65,Dirty room,"Bathroom was disgusting, mold on the walls.",Housekeeping,negative
+123,Smooth check-in,The receptionist was very helpful and kind.,Reception,positive
+79,Room not cleaned,The room was dirty and not cleaned properly.,Housekeeping,negative
+11,Excellent cleaning,The chembermaids did an outstanding job.,Housekeeping,positive
+103,Friendly staff,The staff at reception was professional.,Reception,positive
+127,Friendly staff,Front desk staff went above and beyond.,Reception,positive
+16,Very clean stay,The bed sheets were clean and smelled wonderful.,Housekeeping,positive
+21,Very clean stay,Pillows and blankets were fresh and clean.,Housekeeping,positive
+36,Very clean stay,"Excellent housekeeping, everything was tidy.",Housekeeping,positive
+115,Friendly staff,The receptionist was very helpful and kind.,Reception,positive
+180,Billing error,Front desk staff was unfriendly and cold.,Reception,negative
+27,Very clean stay,Pillows and blankets were fresh and clean.,Housekeeping,positive
+10,Spotless room!,The chembermaids did an outstanding job.,Housekeeping,positive
+241,Great restaurant,Room service food arrived hot and delicious.,F&B,positive
+42,Very clean stay,The room was spotless and very clean.,Housekeeping,positive
+130,Smooth check-in,Payment was handled quickly and correctly.,Reception,positive
+216,Amazing food,The chef prepared outstanding dishes.,F&B,positive
+143,Excellent service,The concierge gave us excellent suggestions.,Reception,positive
+285,Disappointing restaurant,Very limited food options at the buffet.,F&B,negative
+302,"Good food, bad check-in",Breakfast was delicious but check-in took forever and staff was rude.,F&B,negative
+284,Poor dining experience,Room service never delivered our order.,F&B,negative
+233,Amazing food,Room service food arrived hot and delicious.,F&B,positive
+109,Helpful receptionist,Front desk staff went above and beyond.,Reception,positive
+168,Billing error,Nobody helped us with our luggage.,Reception,negative
+195,Rude staff,Nobody helped us with our luggage.,Reception,negative
+134,Helpful receptionist,"Quick and easy check-in, great welcome.",Reception,positive
+26,Very clean stay,Pillows and blankets were fresh and clean.,Housekeeping,positive
+94,Disgusting bathroom,"Very poor cleaning standards, disappointed.",Housekeeping,negative
+237,Amazing food,The bar staff made amazing cocktails.,F&B,positive
+70,Dirty room,Room was never cleaned during our stay.,Housekeeping,negative
+220,Great restaurant,Room service food arrived hot and delicious.,F&B,positive
+43,Excellent cleaning,The room was spotless and very clean.,Housekeeping,positive
+296,Overpriced menu,"Found a hair in my soup, disgusting.",F&B,negative
+289,Terrible food,The dinner was bland and disappointing.,F&B,negative
+202,Great restaurant,"food quality was excellent, loved every meal.",F&B,positive
+14,Very clean stay,The room was spotless and very clean.,Housekeeping,positive
+274,Disappointing restaurant,Bar was closed when it should have been open.,F&B,negative
+66,Disgusting bathroom,Room was never cleaned during our stay.,Housekeeping,negative
+240,Lovely buffet,The bar staff made amazing cocktails.,F&B,positive
+85,Dirty room,The toilet was not cleaned at all.,Housekeeping,negative
+208,Delicious breakfast,Great coffee and lovely breakfast atmosphere.,F&B,positive
+173,Billing error,The receptionist was rude and unhelpful.,Reception,negative
+200,Unhelpful reception,Our room was not ready despite early arrival.,Reception,negative
+15,Excellent cleaning,The staff cleaned our room perfectly.,Housekeeping,positive
+249,Lovely buffet,The buffet had a great selection of dishes.,F&B,positive
+224,Amazing food,The bar staff made amazing cocktails.,F&B,positive
+140,Friendly staff,The staff at reception was professional.,Reception,positive
+310,Up and down,Reception was efficient but the room had dust everywhere and food was cold.,Reception,negative
+250, Excellent dining,Great coffee and lovely breakfast atmosphere.,F&B,positive
+113,Great front desk,Payment was handled quickly and correctly.,Reception,positive
