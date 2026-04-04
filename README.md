@@ -74,7 +74,7 @@ Apre la dashboard nel browser su hattp://localhost:8501
 
 | Modello | Accuracy | F1 Macro |
 | --- | --- | --- |
-| Classificazione Reparto | 100% | 100% |
+| Classificazione Reparto | 96.77% | 96.86%|
 | Analisi Sentiment | 100% | 100% |
 
 ---
