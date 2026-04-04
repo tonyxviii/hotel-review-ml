@@ -126,7 +126,7 @@ Questo garantisce che il processing e il modello vengano sempre applicati nello 
 
 ## Screenshot Dashboard
 
-![Dashboard](data/Dashboard_screenshot.png)
+![Dashboard](https://raw.githubusercontent.com/tonyxviii/hotel-review-ml/main/data/dashboard_preview.png)
 
 ---
 
